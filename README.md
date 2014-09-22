@@ -79,6 +79,7 @@ Please include tests with your Pull Request.
 Wow! thank you, we appreciate any help you can give..
 
 to contribute to this repo to write some code! (or to fix some bugs):
+
 1. Fork this repo
 2. Create a branch ```git checkout -b my_branch```
 3. Push to your branch ```git push origin my_branch```
@@ -87,7 +88,8 @@ to contribute to this repo to write some code! (or to fix some bugs):
 
 Im not sure what is the PHP coding standard, but please keep it simple, probably 15 lines per method (unless you have really good reason(s)), and please avoid use of nested conditionals for flow of control.
 
-And to be honest im not really fussed about 'commenting' on ever classes, the class name and args names should be sensible. 
+And to be honest im not really fussed about 'commenting' on ever classes, the class name and args names should be sensible, thats good enough for me, you just need to 'comment' on something that needs logical explanation or TODO
 ```php
 public function findMemberById($id) {
-}```
+}
+```
